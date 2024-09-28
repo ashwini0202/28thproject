@@ -8,5 +8,11 @@ public class Test1 {
         al.add("ashwini");
         al.add("as");
         System.out.println(al);
+
+        System.out.println("ashwini added new files");
+        System.out.println("ashwini added new files");
+        System.out.println("ashwini added new files");
+        System.out.println("ashwini added new files");
+
     }
 }
